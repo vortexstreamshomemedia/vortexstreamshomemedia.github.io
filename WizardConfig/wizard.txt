@@ -1,5 +1,5 @@
 name="Vortex Streams Build [Home Media System]"
-url="http://download1473.mediafire.com/h95n9oni2nfg/4rcia8la2h9z1iy/build.zip"
+url="https://fs1.letsupload.co/e3K5/build.zip?download_token=c4eb6730cf0f936e90978595b23b3ee7031c82f2674fbe1fa1aa301020762971"
 img="http://vortexstreamshomemedia.github.io/img/icon.png"
 fanart="https://ia801508.us.archive.org/20/items/default_20180530/default.jpg"
 description="Official Build By CrypticialZ"
