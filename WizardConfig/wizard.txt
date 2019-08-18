@@ -1,5 +1,5 @@
 name="Vortex Streams Build [Home Media System]"
-url="https://archive.org/download/build_20190811/build.zip"
+url="https://archive.org/download/build_20190818/build.zip"
 img="http://vortexstreamshomemedia.github.io/img/icon.png"
 fanart="https://ia801508.us.archive.org/20/items/default_20180530/default.jpg"
 description="Official Build By CrypticialZ"
